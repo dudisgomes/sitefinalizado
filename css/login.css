@@ -1,0 +1,40 @@
+body {
+	background-color: #D8BFD8;
+}
+
+h1 {
+	text-align: center;
+	color: #000000;
+	font-family: DejaVu Sans Mono;
+	width: 50%;
+}
+
+nav {
+	text-align: center;
+	background-color: #DA70D6;
+	padding: 1px;
+	border: 1px solid #DA70D6;
+	margin: left;
+	width: 95%;
+}
+
+nav ul li {
+	display: inline;
+    font-size: 15px;
+	background-color: #DA70D6;
+	font-weight: bold;
+}
+
+a {
+	text-decoration: none;
+}	
+
+main {
+	padding: 10px;
+}	
+
+footer {
+  font-size: 15px;
+  text-align: center;
+  color: #DA70D6;
+}

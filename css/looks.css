@@ -1,0 +1,127 @@
+body {
+	background-color: #D8BFD8;
+}
+
+h1 {
+	text-align: center;
+	color: #DA70D6;
+	font-family: DejaVu Sans Mono;
+	width: 50%;
+}
+
+h2 {
+	text-align: center;
+	color: #000000;
+	font-style: Oblique;
+	width: 50%;
+}
+
+h3 {
+	position: relative;
+	left: 210px;
+	top: 10px;
+	margin-right: 300px;
+}
+
+nav {
+	text-align: center;
+	background-color: #DA70D6;
+	padding: 1px;
+	border: 1px solid #DA70D6;
+	margin: left;
+	width: 99%;
+}
+
+nav ul li {
+	display: inline;
+	margin: 5%;
+	padding: 5px;
+    font-size: 15px;
+	background-color: #DA70D6;
+	font-weight: bold;
+}
+
+section.bb {
+	float: right;
+}
+
+aside {
+	position: relative;
+	float: right;
+	width: 20%;
+}
+
+#conteudo {
+	float: left;
+}
+
+form {
+	float: right;
+	width: 30%;
+	padding: 20px;
+}
+	
+a {
+	text-decoration: none;
+}
+	
+.img {
+	border: 1px solid #DA70D6;
+}	
+
+img.aa {
+	position: relative;
+	top: -100px;
+	height: 300px;
+}
+	
+p {
+	position: relative;
+	left: 210px;
+    top: 10px;
+	font-family: Arial;
+	margin-right: 300px;
+}	
+
+section.cont {
+	padding: 10px;
+}
+
+main {
+	width: 65%;
+	float: left;
+}
+
+section.pontofrio {
+	position: relative;
+	top: 40px;
+}
+
+section.shein {
+	position: relative;
+	top: 280px;
+}
+
+section.cea {
+	position: relative;
+	top: 510px;
+}
+
+aside {
+	float: right;
+	width: 20%;
+}	
+	
+footer {
+  font-size: 15px;
+  text-align: center;
+  color: #DA70D6;
+}
+
+.clear {
+	clear: both;
+}	
+
+article {
+	margin-bottom: -100px;
+}
